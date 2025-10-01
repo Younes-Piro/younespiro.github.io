@@ -1,13 +1,16 @@
-title: John Doe # your name (or website title) here
+title: Younes Piro # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  With +2 years of experience as a data scientist and a strong background in statistics, 
+  analytical modeling, and programming, I specialize in developing accurate machine learning applications 
+  and translating their insights into clear, impactful stories for stakeholders and clients.
+  This approach helps businesses achieve their goals and increase profitability. 
+  In addition, I have solid experience in building AI agents and AI-driven applications,
+  which allows me to design intelligent solutions that go beyond traditional analytics and create real-world impact.
   <br><br>
-  Second description 
+
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+  <a href="https://www.linkedin.com/in/younes-piro/">View My LinkedIn Profile</a>
+
+theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
